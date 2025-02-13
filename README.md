@@ -4,6 +4,7 @@
 An AI-powered code reviewer built using Streamlit and Google's Gemini model. This application analyzes Python code, identifies potential bugs, and suggests fixes, providing an improved version of the code.
 
 🌟 **Features**
+
 🔍 AI-Powered Code Analysis - Detects potential bugs, syntax errors, and logical mistakes.
 
 📝 Bug Report Generation - Provides a detailed bug report with precise error descriptions.
@@ -21,6 +22,7 @@ An AI-powered code reviewer built using Streamlit and Google's Gemini model. Thi
 📄 Example-Based Learning - Provides corrected code along with explanations for better understanding.
 
 🔧 **Tech Stack**
+
 --> Python
 
 -->🎨 Streamlit (for the user interface)
@@ -28,6 +30,7 @@ An AI-powered code reviewer built using Streamlit and Google's Gemini model. Thi
 -->🤖 Gemini AI model (for code analysis and bug fixing)
 
 🚀 **Usage**
+
 1️⃣ Run the Streamlit application:
         streamlit run app.py
         
